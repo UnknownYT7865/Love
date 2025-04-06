@@ -22,7 +22,7 @@ Just open the `index.html` file in your browser. You can also:
 - Add audio or more animations
 
 ## Screenshot
-![Screenshot](screenshot.png) *(Add a screenshot image in your project folder)*
+![Screenshot](1741018996835.jpg) *(Add a screenshot image in your project folder)*
 
 ## License
 This project is free to use and modify. Spread love freely!
